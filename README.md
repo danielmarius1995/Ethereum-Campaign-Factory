@@ -1,4 +1,4 @@
-## Ethereum Campaign Factory DApp using Solidity, Truffle, MetaMask, React, Next.js, Web3, Semantic-UI
+## Ethereum Campaign Factory DApp with Solidity, Truffle, MetaMask, React, Next.js, Web3, Semantic-UI
 
 ## Features
 
