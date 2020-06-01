@@ -1,10 +1,9 @@
-## Ethereum Campaign Factory DApp using Solidity, Truffle, Metamask, React, Next.js, Web3, Semantic-UI
+## Ethereum Campaign Factory DApp using Solidity, Truffle, MetaMask, React, Next.js, Web3, Semantic-UI
 
 ## Features
 
-Participants can create and contribute to campaigns
-
-DApp can be deployed on any Ethereum Network
+- Participants can create and contribute to campaigns
+- DApp can be deployed on any Ethereum Network
 
 ## Available Scripts
 
